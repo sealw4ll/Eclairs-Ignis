@@ -19,4 +19,4 @@ Programmer & UI/UX - Natsuha (https://github.com/natsuhakoishi)
 
 Programmer & background designer - Zhen Win (https://github.com/nightZQ)
 
-Programmer - Wallace (https://github.com/sealw4ll)
+Team Lead & Programmer - Wallace (https://github.com/sealw4ll)
