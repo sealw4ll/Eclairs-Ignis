@@ -15,7 +15,7 @@ Programmer & Level Designer - Ivan (https://github.com/WardenOTD)
 
 Lead gameplay programmer - Chua (https://github.com/SpaghettiCodes) 
 
-Programmer & UI/UX - natsuha (https://github.com/natsuhakoishi)
+Programmer & UI/UX - Natsuha (https://github.com/natsuhakoishi)
 
 Programmer & background designer - Zhen Win (https://github.com/nightZQ)
 
